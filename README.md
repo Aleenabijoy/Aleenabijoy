@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Aleenabijoy
-- 👀 I’m interested in programming and music
-- 🌱 I’m currently learning Computer Science Engineering
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in programming 
+- 🌱 Computer Science Engineering Graduate
 - 📫 How to reach me www.linkedin.com/in/aleena-bijoy
 
 
